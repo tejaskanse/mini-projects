@@ -1,1 +1,1 @@
-# python mini-projects
+# 8 Different Mini Project on Python python
